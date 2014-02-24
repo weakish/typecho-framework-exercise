@@ -1,7 +1,7 @@
 typecho-framework-exercise
 ==========================
 
-Exercises forl learning  typecho framework
+Exercises for learning  typecho framework
 
 入口是 index.php。
 
