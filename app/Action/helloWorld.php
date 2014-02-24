@@ -3,7 +3,6 @@
 namespace Hello\Action;
 
 use TE\Mvc\Action\AbstractAction;
-use Hello\Service\Ending;
 
 /**
  * Hello
